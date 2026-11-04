@@ -17,7 +17,7 @@ A website for Batangas College of Arts and Sciences where staff manage news, ann
 - Events calendar, FAQs and an inquiry/ticket system
 - Deployed live on MonsterASP
 
-Live site: http://bcaswebsite.runasp.net
+Live site: https://bcaswebsite.runasp.net
 
 Contact
 
